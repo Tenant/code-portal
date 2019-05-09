@@ -22,3 +22,6 @@
 [submodule "dsv2dem"]
 	path = dsv2dem
 	url = git@github.com:Tenant/utils-dsv2dem.git
+[submodule "road-planning-simulator"]
+	path = road-planning-simulator
+	url = git@github.com:Tenant/utils-road-planning-simulator.git
