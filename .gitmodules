@@ -40,3 +40,6 @@
 [submodule "camera-calibration-opencv"]
 	path = camera-calibration-opencv
 	url = git@github.com:Tenant/utils-camera-calibration-opencv.git
+[submodule "pedestrian-detection-yolo"]
+	path = pedestrian-detection-yolo
+	url = git@github.com:Tenant/utils-pedestrian-detection-YOLO.git
