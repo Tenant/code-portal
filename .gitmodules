@@ -1,0 +1,3 @@
+[submodule "karto-2d-slam"]
+	path = karto-2d-slam
+	url = git@github.com:Tenant/utils-carto-2d-slam.git
