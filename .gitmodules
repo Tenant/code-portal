@@ -25,3 +25,6 @@
 [submodule "road-planning-simulator"]
 	path = road-planning-simulator
 	url = git@github.com:Tenant/utils-road-planning-simulator.git
+[submodule "camera2lidar-calibration"]
+	path = camera2lidar-calibration
+	url = git@github.com:Tenant/utils-camera2lidar-calibration.git
