@@ -31,3 +31,6 @@
 [submodule "vdn2dsv"]
 	path = vdn2dsv
 	url = git@github.com:Tenant/utils-vdn-dsv.git
+[submodule "vdn-viewer"]
+	path = vdn-viewer
+	url = git@github.com:Tenant/utils-vdn-viewer.git
