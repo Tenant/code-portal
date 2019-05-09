@@ -34,3 +34,6 @@
 [submodule "vdn-viewer"]
 	path = vdn-viewer
 	url = git@github.com:Tenant/utils-vdn-viewer.git
+[submodule "velodyne-interface"]
+	path = velodyne-interface
+	url = git@github.com:Tenant/utils-velodyne-datainterface.git
