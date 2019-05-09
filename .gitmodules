@@ -7,3 +7,6 @@
 [submodule "map-annotation"]
 	path = map-annotation
 	url = git@github.com:Tenant/utils-map-annotation-qt.git
+[submodule "dsv2ds"]
+	path = dsv2ds
+	url = git@github.com:Tenant/utils-dsv2ds-converter.git
