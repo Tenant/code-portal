@@ -28,3 +28,6 @@
 [submodule "camera2lidar-calibration"]
 	path = camera2lidar-calibration
 	url = git@github.com:Tenant/utils-camera2lidar-calibration.git
+[submodule "vdn2dsv"]
+	path = vdn2dsv
+	url = git@github.com:Tenant/utils-vdn-dsv.git
