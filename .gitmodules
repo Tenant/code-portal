@@ -19,3 +19,6 @@
 [submodule "camera-lidar-player"]
 	path = camera-lidar-player
 	url = git@github.com:Tenant/utils-camera-lidar-player.git
+[submodule "dsv2dem"]
+	path = dsv2dem
+	url = git@github.com:Tenant/utils-dsv2dem.git
