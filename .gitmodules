@@ -46,3 +46,6 @@
 [submodule "map-label-tool"]
 	path = map-label-tool
 	url = git@github.com:Tenant/utils-map-label-tool.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:Tenant/coding-library.git
