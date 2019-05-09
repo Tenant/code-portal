@@ -10,3 +10,6 @@
 [submodule "dsv2ds"]
 	path = dsv2ds
 	url = git@github.com:Tenant/utils-dsv2ds-converter.git
+[submodule "dsv-viewer"]
+	path = dsv-viewer
+	url = git@github.com:Tenant/utils-dsv-viewer.git
