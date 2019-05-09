@@ -43,3 +43,6 @@
 [submodule "pedestrian-detection-yolo"]
 	path = pedestrian-detection-yolo
 	url = git@github.com:Tenant/utils-pedestrian-detection-YOLO.git
+[submodule "map-label-tool"]
+	path = map-label-tool
+	url = git@github.com:Tenant/utils-map-label-tool.git
