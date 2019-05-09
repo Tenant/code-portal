@@ -37,3 +37,6 @@
 [submodule "velodyne-interface"]
 	path = velodyne-interface
 	url = git@github.com:Tenant/utils-velodyne-datainterface.git
+[submodule "camera-calibration-opencv"]
+	path = camera-calibration-opencv
+	url = git@github.com:Tenant/utils-camera-calibration-opencv.git
