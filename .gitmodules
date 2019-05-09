@@ -4,3 +4,6 @@
 [submodule "rosbag-parser"]
 	path = rosbag-parser
 	url = git@github.com:Tenant/utils-rosbag-parser.git
+[submodule "map-annotation"]
+	path = map-annotation
+	url = git@github.com:Tenant/utils-map-annotation-qt.git
