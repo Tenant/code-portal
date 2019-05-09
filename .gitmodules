@@ -16,3 +16,6 @@
 [submodule "range-image-viewer"]
 	path = range-image-viewer
 	url = git@github.com:Tenant/utils-range-image-viewer.git
+[submodule "camera-lidar-player"]
+	path = camera-lidar-player
+	url = git@github.com:Tenant/utils-camera-lidar-player.git
