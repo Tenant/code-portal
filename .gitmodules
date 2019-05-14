@@ -52,3 +52,6 @@
 [submodule "laser-map-toolbox"]
 	path = laser-map-toolbox
 	url = git@github.com:Tenant/utils-laser-map-toolbox.git
+[submodule "3d-slam-visualization"]
+	path = 3d-slam-visualization
+	url = git@github.com:Tenant/Loam3DViz.git
