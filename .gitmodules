@@ -49,3 +49,6 @@
 [submodule "utils"]
 	path = utils
 	url = git@github.com:Tenant/coding-library.git
+[submodule "laser-map-toolbox"]
+	path = laser-map-toolbox
+	url = git@github.com:Tenant/utils-laser-map-toolbox.git
