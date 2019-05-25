@@ -55,3 +55,6 @@
 [submodule "3d-slam-visualization"]
 	path = 3d-slam-visualization
 	url = git@github.com:Tenant/Loam3DViz.git
+[submodule "demo-3d-coordinate-transform"]
+	path = demo-3d-coordinate-transform
+	url = git@github.com:Tenant/utils-3d-coordinate-transform.git
