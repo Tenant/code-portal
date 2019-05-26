@@ -58,3 +58,6 @@
 [submodule "demo-3d-coordinate-transform"]
 	path = demo-3d-coordinate-transform
 	url = git@github.com:Tenant/utils-3d-coordinate-transform.git
+[submodule "CANViewer"]
+	path = CANViewer
+	url = git@github.com:Tenant/utils-canvewer.git
