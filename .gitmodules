@@ -64,3 +64,6 @@
 [submodule "loam-feature-vis"]
 	path = loam-feature-vis
 	url = git@github.com:Tenant/loam-feature-vis.git
+[submodule "loam"]
+	path = loam
+	url = https://github.com/YoshuaNava/loam.git
