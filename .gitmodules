@@ -76,3 +76,6 @@
 [submodule "pcl-viz-openni"]
 	path = pcl-viz-openni
 	url = git@github.com:Tenant/pcl-viz-openni.git
+[submodule "tds-cfpy-exercise-demo"]
+	path = tds-cfpy-exercise-demo
+	url = git@github.com:Tenant/tds-cfpy-exercise-demo.git
