@@ -73,3 +73,6 @@
 [submodule "loam_velodyne_implementation"]
 	path = loam_velodyne_implementation
 	url = git@github.com:Tenant/loam_velodyne_implementation.git
+[submodule "pcl-viz-openni"]
+	path = pcl-viz-openni
+	url = git@github.com:Tenant/pcl-viz-openni.git
