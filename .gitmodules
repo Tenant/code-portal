@@ -70,3 +70,6 @@
 [submodule "Generate_Samples_For_Point_Labeler"]
 	path = Generate_Samples_For_Point_Labeler
 	url = https://github.com/jsgaobiao/Generate_Samples_For_Point_Labeler.git
+[submodule "loam_velodyne_implementation"]
+	path = loam_velodyne_implementation
+	url = git@github.com:Tenant/loam_velodyne_implementation.git
