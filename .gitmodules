@@ -67,3 +67,6 @@
 [submodule "loam"]
 	path = loam
 	url = https://github.com/YoshuaNava/loam.git
+[submodule "Generate_Samples_For_Point_Labeler"]
+	path = Generate_Samples_For_Point_Labeler
+	url = https://github.com/jsgaobiao/Generate_Samples_For_Point_Labeler.git
