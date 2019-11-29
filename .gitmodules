@@ -79,3 +79,6 @@
 [submodule "tds-cfpy-exercise-demo"]
 	path = tds-cfpy-exercise-demo
 	url = git@github.com:Tenant/tds-cfpy-exercise-demo.git
+[submodule "A-LOAM"]
+	path = A-LOAM
+	url = https://github.com/HKUST-Aerial-Robotics/A-LOAM.git
